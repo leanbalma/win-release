@@ -18,6 +18,9 @@
   "files": [
     "index.js"
   ],
+  "browser": {
+    "child_process": false
+  },
   "keywords": [
     "os",
     "win",
